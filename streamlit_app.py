@@ -3,7 +3,7 @@ import os
 import time
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-os.environ['GOOGLE_API_KEY'] =  'AIzaSyDiWUOC6feuoOpT0NTmShelkREMcjptMNw'
+os.environ['GOOGLE_API_KEY'] =  'AIzaSyDNBCKeFjjtfOqk4lzVUP0PZVJ55mkLkJM'
 
 
 def generative_Model(input):
