@@ -1,4 +1,4 @@
-#Langchian Gemini QuizGenius Application
+# Langchian Gemini QuizGenius Application
 
 QuizGenius is an interactive Multiple Choice Questions (MCQ) application powered by LangChain, Streamlit, and Gemini. It allows users to generate and answer MCQs on various topics, providing immediate feedback and performance rewards.
 
